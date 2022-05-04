@@ -2,13 +2,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasPaladino&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPaladino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPaladino&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+_________________________________________________________________________________
 ## You can find me:
 [Linkedin: Elias Paladino](https://www.linkedin.com/in/elias-paladino-4317341b4/)
 **EliasPaladino/EliasPaladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
