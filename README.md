@@ -1,14 +1,12 @@
-### Hi, my name is Elias Paladino! I'm a software Developer
+# Hi, my name is Elias Paladino! I'm a software Developer
 
-### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasPaladino&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPaladino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
-
+## You can find me:
+[Linkedin: Elias Paladino](https://www.linkedin.com/in/elias-paladino-4317341b4/)
 **EliasPaladino/EliasPaladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
