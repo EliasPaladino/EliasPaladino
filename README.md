@@ -7,8 +7,10 @@
 _________________________________________________________________________________
 ## You can find me:
 [Linkedin: Elias Paladino](https://www.linkedin.com/in/elias-paladino-4317341b4/)
-**EliasPaladino/EliasPaladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
+**EliasPaladino/EliasPaladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
